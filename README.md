@@ -9,7 +9,7 @@ If you wish to see (what little) debugging happen, I recommend you set 2 of BepI
 Enabled = true
 LogLevels = All
 ```
-This is re-iterated with a picture in the installation guide file [here](INSTALL.md), so just double-check there if you aren't 100% sure.
+This is re-iterated with a picture in the installation guide file [here](INSTALLATION.md), so just double-check there if you aren't 100% sure.
 
 # What This Mod Does
 This mod forces *Casualties: Unknown* to skip the discretion warning, and to skip over the method that starts the intro scene for the game.
@@ -25,7 +25,7 @@ This mod allows the user to skip through the 12 paragraph introduction.<br>
 It's honestly not that bad, but when you're modding, you tend to see that scene multiple times during debugging sessions.
 
 # Installation
-For more in-depth installation instructions with images, see [INSTALL.md](INSTALL.md).
+For more in-depth installation instructions with images, see [INSTALLATION.md](INSTALLATION.md).
 - Download [BepInEx](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.4), unpack in your game directory, remove non-core files if you wish.
 - **Run the game once.** BepInEx needs to initialise some folders.
 - Drag-and-drop the downloaded DLL file into `CasualtiesUnknown\BepInEx\plugins`.
